@@ -320,3 +320,25 @@ prefab/
 pythonenv3.8/
 .venv/
 
+/ports/bzip2/out/build/x64-Debug
+/ports/butteraugli/out/build/x64-Debug
+/ports/breakpad/out/build/x64-Debug
+/ports/boost-modular-build-helper/out/build/x64-Debug
+/ports/boost-iostreams/out/build/x64-Debug
+/ports/blas/out/build/x64-Debug
+/ports/binn/out/build/x64-Debug
+/ports/bigint/out/build/x64-Debug
+/ports/berkeleydb/out/build/x64-Debug
+/ports/aubio/out/build/x64-Debug
+/ports/asio/out/build/x64-Debug
+/ports/arb/out/build/x64-Debug
+/ports/angle/out/build/x64-Debug
+/ports/alac-decoder/out/build/x64-Debug
+/ports/alac/out/build/x64-Debug
+/ports/7zip/out/build/x64-Debug
+/ports/libmpeg2/out/build/x64-Debug
+/ports/libmodbus/out/build/x64-Debug
+/ports/libmaxminddb/out/build/x64-Debug
+/ports/libmad/out/build/x64-Debug
+/ports/poissonrecon/out/build/x64-Debug/vcpkg_installed
+/ports/luasec/out/build/x64-Debug
